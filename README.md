@@ -1,5 +1,5 @@
 # DevSecOps & Cloud Technologies Study Roadmap (Notion Template)
-
+https://ballistic-island-b8a.notion.site/Roadmap-1d4d908a17b180cf921ffed99093db6b?pvs=4
 This is a free, open-source Notion study board designed for anyone looking to master DevSecOps, Cloud Technologies, and related skills like Azure, Kubernetes, Python, and more. 
 
 ## Features:
